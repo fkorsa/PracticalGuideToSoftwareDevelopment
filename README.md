@@ -18,6 +18,7 @@ The purpose of this book is to help you become a professional software developer
 
 # Disclaimer
 * This book is full of opinions. You may disagree with them; keep in mind that I am merely sharing them with you, I am in no way forcing you to think the same way as I do.
+* I am not a web developer. It follows that most of my advice and explanations are not relevant for people in that field. If you are a web developer and you still want to read this book, keep that in mind.
 * This book is still being written. There are missing pieces and *badly* **formatted** *__text__*.
 
 # What's inside?
