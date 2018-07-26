@@ -24,7 +24,9 @@ I wrote this book for people in the very beginning of their software development
 Here's the long story:
 
 Not long ago, you were studying computer science inside an engineering school. You liked it and stuff, and after a lot of sweat and loads of beer, you graduated. You are now in possession of a nice and fancy paper saying "Hey, this lovely human is great, it knows the computer stuff. You should hire it and pay it loads of money!" (or something like that). During your studies you learned a lot of things, including how to program in several languages. You had some very smart teachers that taught you very smart algorithms. You felt very smart for understanding them. You figured the life of a software developer would be filled with writing nice algorithms that ran in logarithmic time and used only O(nlog(n)) memory, or the other way around.
+
 Nope! You will quickly learn that software development has lots of fun things, but writing beautiful algorithms is NOT the main one&ast;. It's not even a major one. You will also quickly learn that your education is lacking, to say the least. Actually, most of the skills needed for software development were NOT taught at your prestigious school! How come is that? Well, if you ask me, that's a big mistake. A lot of schools are only now beginning to include software development skills into their courses, but unfortunately they always have a huge lag of ten years or so.
+
 Now for the goods news! Somebody super generous (and humble) wrote a book about these missing skills, and made it available for free online.
 
 &ast; There ARE jobs out there where writing beautiful algorithms is the very purpose of the job. But they have the word "research" in the job description, not software development.
