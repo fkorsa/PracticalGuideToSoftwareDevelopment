@@ -2,7 +2,7 @@
 This repository contains a series of articles (you could call them "blogposts" as well) explaining the basics of software development. Together, you could call them a "book". And you could call that book "Practical guide to software development".
 
 In my vocabulary, sofware development differs from computer science or from programming. Let's explain the nuance by defining their associated job titles:
-* Computer scientist: someone who writes algorithms.&ast;
+* Computer scientist: someone who writes algorithms.
 * Programmer: someone who programs a computer.
 * Software developer: someone who creates software.
 
