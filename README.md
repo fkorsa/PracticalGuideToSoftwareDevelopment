@@ -23,26 +23,26 @@ The purpose of this book is to help you become a professional software developer
 # What's inside?
 Here are the various topics you can learn about in this book:
 * Development Tools
-** IDEs
-** Code projects
-** Version control
-** Libraries
-*** Libraries in C and C++
-*** Libraries in other languages
-** Scripts
+  * IDEs
+  * Code projects
+  * Version control
+  * Libraries
+    * Libraries in C and C++
+    * Libraries in other languages
+  * Scripts
 * Developer attitude
-** Team communication
-** Continuous improvement
+  * Team communication
+  * Continuous improvement
 * Good practices
-** Coding standards
-** Code quality
-** Automatic tests (unit, integration, acceptance...)
-** Code review
+  * Coding standards
+  * Code quality
+  * Automatic tests (unit, integration, acceptance...)
+  * Code review
 * Searching for a job
-** Writing a CV
-** Writing a cover letter
-** Finding the right job offer
-** Job interviews
+  * Writing a CV
+  * Writing a cover letter
+  * Finding the right job offer
+  * Job interviews
 
 
 # Who's this for?
