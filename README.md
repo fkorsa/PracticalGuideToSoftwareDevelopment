@@ -17,7 +17,8 @@ The purpose of this book is to help you become a professional software developer
 &ast; Note: You don't need a computer to *write* algorithms. An algorithm is merely a sequence of steps; a recipe of sorts.
 
 # Who's this for?
-TL;DR
+**TL;DR**
+
 I wrote this book for people in the very beginning of their software development career. The less professional experience you have, the more you will benefit from the contents of this repository. Ideally, one should read this book while searching for a first job in software development or before.
 
 Here's the long story:
