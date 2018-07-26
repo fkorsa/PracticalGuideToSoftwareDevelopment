@@ -16,6 +16,35 @@ The purpose of this book is to help you become a professional software developer
 
 &ast; Note: You don't need a computer to *write* algorithms. An algorithm is merely a sequence of steps; a recipe of sorts.
 
+# Disclaimer
+* This book is full of opinions. You may disagree with them; keep in mind that I am merely sharing them with you, I am in no way forcing you to think the same way as I do.
+* This book is still being written. There are missing pieces and *badly* **formatted** *__text__*.
+
+# What's inside?
+Here are the various topics you can learn about in this book:
+* Development Tools
+** IDEs
+** Code projects
+** Version control
+** Libraries
+*** Libraries in C and C++
+*** Libraries in other languages
+** Scripts
+* Developer attitude
+** Team communication
+** Continuous improvement
+* Good practices
+** Coding standards
+** Code quality
+** Automatic tests (unit, integration, acceptance...)
+** Code review
+* Searching for a job
+** Writing a CV
+** Writing a cover letter
+** Finding the right job offer
+** Job interviews
+
+
 # Who's this for?
 **TL;DR**
 
