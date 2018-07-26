@@ -10,11 +10,6 @@ Of course, these definitions are extremely simplistic. But they are here to intr
 
 The purpose of this book is to help you become a professional software developer, when your skills belong mainly to the programming and computer science fields.
 
-# Disclaimer
-* This book contains opinions about software development that are based on my personal experience. You may disagree with them now or in the future; I share them because I think you will get something positive out of it.
-* I am not a web developer. It follows that most of my advice and explanations are not relevant for people in that field. If you are a web developer and you still want to read this book, keep that in mind.
-* This book is still being written. There are missing pieces and *badly* **formatted** *__text__*.
-
 # What's inside?
 Here are the various topics you can learn about in this book:
 * Development Tools
@@ -74,3 +69,8 @@ Nope! You will quickly learn that software development has lots of fun things, b
 Now for the goods news! Somebody super generous wrote a book about these missing skills, and made it available for free online. Enjoy!
 
 &ast; There ARE jobs out there where writing beautiful algorithms is the very purpose of the job. But they have the word "research" in the job description, not software development.
+
+# Disclaimer
+* This book contains opinions about software development that are based on my personal experience. You may disagree with them now or in the future; I share them because I think you will get something positive out of it.
+* I am not a web developer. It follows that most of my advice and explanations are not relevant for people in that field. If you are a web developer and you still want to read this book, keep that in mind.
+* This book is still being written. There are missing pieces and *badly* **formatted** *__text__*.
