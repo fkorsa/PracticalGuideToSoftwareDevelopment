@@ -24,7 +24,9 @@ Here are the various topics you can learn about in this book:
   * Libraries
     * Libraries in C and C++
     * Libraries in other languages
+  * Profilers
   * Scripts
+  * Useful programs
 * Developer attitude
   * Communication
     * With a manager
@@ -40,8 +42,16 @@ Here are the various topics you can learn about in this book:
   * Writing a cover letter
   * Finding the right job offer
   * Job interviews
+* Programming
+  * Understanding computers
+    * Operating systems
+    * Compilers
+    * Memory
+    * Performance
+    * Virtual machines
+  * Glossary
 
-Each of these sections can be found in the different folders of the repository. I recommend reading them directly on Github for better readability.
+Each of these sections can be found in the different folders of the repository. I recommend checking them out directly on Github for better readability.
 
 # Where should I begin?
 If you don't know where to start, I recommend the Development Tools section.
