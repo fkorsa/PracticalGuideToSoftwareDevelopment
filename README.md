@@ -36,7 +36,7 @@ Here are the various topics you can learn about in this book:
 * Good practices
   * Coding standards
   * Code quality
-  * Automatic tests (unit, integration, acceptance...)
+  * Automatic tests
   * Code review
 * Searching for a job
   * Writing a CV
