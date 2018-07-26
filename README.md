@@ -14,7 +14,7 @@ Of course, these definitions are extremely simplistic. But they do convey my poi
 
 The purpose of this book is to help you become a professional software developer, when your skills belong mainly to the programming and computer science fields.
 
-&ast; Note: You don't need a computer to *write* algorithms. An algorithm is merely a sequence of steps; a recipe of sorts. You can write tons of algorithms and never execute them on a computer... Which would of course be pretty pointless. But what if a "pure" programmer works with a "pure" computer scientist? The computer scientist could write an algorithm, which is then used by the programmer inside a program executed on a computer. In practice, of course, nobody is a "pure" something. Everybody has *some* features of a programmer, *some* of a computer scientist, and *some* of a software developer [including your grandma].
+&ast; Note: You don't need a computer to *write* algorithms. An algorithm is merely a sequence of steps; a recipe of sorts.
 
 # Who's this for?
 TL;DR
