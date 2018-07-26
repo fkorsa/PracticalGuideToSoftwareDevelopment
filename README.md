@@ -6,15 +6,9 @@ In my vocabulary, sofware development differs from computer science or from prog
 * Programmer: someone who programs a computer.
 * Software developer: someone who creates software.
 
-Of course, these definitions are extremely simplistic. But they do convey my point:
-* You can be a computer scientist without being a software developer nor a programmer.
-* You can be a programmer without being a software developer.
-* You can NOT be a software developer without also being a programmer; and
-* In some areas of software development, you cannot be a good software developer without also being a computer scientist.
+Of course, these definitions are extremely simplistic. But they are here to introduce my point: when most people graduate from engineering school, they are programmers and computer scientists. They usually are not software developers yet. In order to develop software professionally, additional skills are required.
 
 The purpose of this book is to help you become a professional software developer, when your skills belong mainly to the programming and computer science fields.
-
-&ast; Note: You don't need a computer to *write* algorithms. An algorithm is merely a sequence of steps; a recipe of sorts.
 
 # Disclaimer
 * This book is full of opinions. You may disagree with them; keep in mind that I am merely sharing them with you, I am in no way forcing you to think the same way as I do.
@@ -59,9 +53,6 @@ Not long ago, you were studying computer science inside an engineering school. Y
 
 Nope! You will quickly learn that software development has lots of fun things, but writing beautiful algorithms is NOT the main one&ast;. It's not even a major one. You will also quickly learn that your education is lacking, to say the least. Actually, most of the skills needed for software development were NOT taught at your prestigious school! How come is that? Well, if you ask me, that's a big mistake. A lot of schools are only now beginning to include software development skills into their courses, but unfortunately they always have a huge lag of ten years or so.
 
-Now for the goods news! Somebody super generous wrote a book about these missing skills, and made it available for free online.
+Now for the goods news! Somebody super generous wrote a book about these missing skills, and made it available for free online. Enjoy!
 
 &ast; There ARE jobs out there where writing beautiful algorithms is the very purpose of the job. But they have the word "research" in the job description, not software development.
-
-### So in the end, WHO is this book for?
-Basically, this book is for programmers and computer scientists that long to be software developers.
