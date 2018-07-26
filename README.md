@@ -27,7 +27,7 @@ Not long ago, you were studying computer science inside an engineering school. Y
 
 Nope! You will quickly learn that software development has lots of fun things, but writing beautiful algorithms is NOT the main one&ast;. It's not even a major one. You will also quickly learn that your education is lacking, to say the least. Actually, most of the skills needed for software development were NOT taught at your prestigious school! How come is that? Well, if you ask me, that's a big mistake. A lot of schools are only now beginning to include software development skills into their courses, but unfortunately they always have a huge lag of ten years or so.
 
-Now for the goods news! Somebody super generous (and humble) wrote a book about these missing skills, and made it available for free online.
+Now for the goods news! Somebody super generous wrote a book about these missing skills, and made it available for free online.
 
 &ast; There ARE jobs out there where writing beautiful algorithms is the very purpose of the job. But they have the word "research" in the job description, not software development.
 
