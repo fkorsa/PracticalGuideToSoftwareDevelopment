@@ -11,7 +11,7 @@ Of course, these definitions are extremely simplistic. But they are here to intr
 The purpose of this book is to help you become a professional software developer, when your skills belong mainly to the programming and computer science fields.
 
 # Disclaimer
-* This book contains opinions about software development that are based on my personal experience. You may disagree with them now or in the future; but even in that case, I think you will get something positive out of it.
+* This book contains opinions about software development that are based on my personal experience. You may disagree with them now or in the future; I share them because I think you will get something positive out of it.
 * I am not a web developer. It follows that most of my advice and explanations are not relevant for people in that field. If you are a web developer and you still want to read this book, keep that in mind.
 * This book is still being written. There are missing pieces and *badly* **formatted** *__text__*.
 
