@@ -53,6 +53,8 @@ However, each topic is independent of all others. There is no mandatory order: f
 
 I wrote this book for people in the very beginning of their software development career. The less professional experience you have, the more you will benefit from the contents of this repository. Ideally, one should read this book while searching for a first job in software development or before.
 
+---
+
 Here's the long story:
 
 Not long ago, you were studying computer science inside an engineering school. You liked it and stuff, and after a lot of sweat and loads of beer, you graduated. You are now in possession of a nice and fancy paper saying "Hey, this lovely human is great, it knows the computer stuff. You should hire it and pay it loads of money!" (or something like that). During your studies you learned a lot of things, including how to program in several languages. You had some very smart teachers that taught you very smart algorithms. You felt very smart for understanding them. You figured the life of a software developer would be filled with writing nice algorithms that ran in logarithmic time and used only O(nlog(n)) memory, or the other way around.
