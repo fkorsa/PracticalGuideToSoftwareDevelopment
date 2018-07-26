@@ -31,7 +31,9 @@ Here are the various topics you can learn about in this book:
     * Libraries in other languages
   * Scripts
 * Developer attitude
-  * Team communication
+  * Communication
+    * With a manager
+    * With other developers on the team
   * Continuous improvement
 * Good practices
   * Coding standards
