@@ -41,6 +41,12 @@ Here are the various topics you can learn about in this book:
   * Finding the right job offer
   * Job interviews
 
+Each of these sections can be found in the different folders of the repository. I recommend reading them directly on Github for better readability.
+
+# Where should I begin?
+If you don't know where to start, I recommend the Development Tools section.
+
+However, each topic is independent of all others. There is no mandatory order: feel free to read articles from various sections as you please.
 
 # Who's this for?
 **TL;DR**
