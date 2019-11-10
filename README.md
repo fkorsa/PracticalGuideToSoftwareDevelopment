@@ -1,7 +1,7 @@
 # What's this?
-This repository contains a series of articles (or blogposts) explaining the basics of software development. Together, you could call them a "book". And you could call that book "Practical guide to software development".
+This book contains a series of articles (or blogposts) explaining the basics of software development.
 
-In my vocabulary, sofware development differs from computer science or from programming. Let's explain the nuance by defining their associated job titles:
+In my vocabulary, sofware development differs from computer science or from programming. Here's the nuance:
 * Computer scientist: someone who writes algorithms.
 * Programmer: someone who programs a computer.
 * Software developer: someone who creates software.
@@ -45,6 +45,10 @@ Here are the various topics you can learn about in this book:
     * Performance
     * Virtual machines
   * Glossary
+* Happiness and productivity
+  * Job investment
+  * Impostor syndrome
+  * Work processes
 
 Each of these sections can be found in the different folders of the repository. I recommend checking them out directly on Github for better readability.
 
@@ -54,21 +58,10 @@ If you don't know where to start, I recommend the Development Tools section.
 However, each topic is independent of all others. There is no mandatory order: feel free to read articles from various sections as you please.
 
 # Who's this for?
-**TL;DR**
 
 I wrote this book for people in the very beginning of their software development career. The less professional experience you have, the more you will benefit from the contents of this repository. Ideally, one should read this book while searching for a first job in software development or before.
 
----
-
-Here's the long story:
-
-Not long ago, you were studying computer science inside an engineering school. You liked it and stuff, and after a lot of sweat and loads of beer, you graduated. You are now in possession of a nice and fancy paper saying "Hey, this lovely human is great, it knows the computer stuff. You should hire it and pay it loads of money!" (or something like that). During your studies you learned a lot of things, including how to program in several languages. You had some very smart teachers that taught you very smart algorithms. You felt very smart for understanding them. You figured the life of a software developer would be filled with writing nice algorithms that ran in logarithmic time and used only O(nlog(n)) memory, or the other way around.
-
-Nope! You will quickly learn that software development has lots of fun things, but writing beautiful algorithms is NOT the main one&ast;. It's not even a major one. You will also quickly learn that your education is lacking, to say the least. Actually, most of the skills needed for software development were NOT taught at your prestigious school! How come is that? Well, if you ask me, that's a big mistake. A lot of schools are only now beginning to include software development skills into their courses, but unfortunately they always have a huge lag of ten years or so.
-
-Now for the goods news! Somebody super generous wrote a book about these missing skills, and made it available for free online. Enjoy!
-
-&ast; There ARE jobs out there where writing beautiful algorithms is the very purpose of the job. But they have the word "research" in the job description, not software development.
+&ast; There ARE jobs out there where writing beautiful algorithms is the very purpose of the job, and where software development skills are secondary (but still useful). But they have the word "research" in the job description, not software development.
 
 # Disclaimer
 * This book contains opinions about software development that are based on my personal experience. You may disagree with them now or in the future; I share them because I think you will get something positive out of it.
